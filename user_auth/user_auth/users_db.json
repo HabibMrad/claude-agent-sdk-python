@@ -1,0 +1,32 @@
+{
+  "analyst": {
+    "password_hash": "afe84de3f7fbc0ee8e3e9d4cafdc4724ddf265d73a92b260e7b96b81fa26ff27",
+    "email": "analyst@example.com",
+    "created_at": "2025-10-26T15:56:03.882346",
+    "last_login": "2025-10-26T16:25:48.753679"
+  },
+  "charlie": {
+    "password_hash": "a9aff601a83f44da86f44c50646feb3cb7987446d700f47cc9e4d159036ba01e",
+    "email": "charlie@example.com",
+    "created_at": "2025-10-26T16:17:58.161960",
+    "last_login": null
+  },
+  "testuser": {
+    "password_hash": "4df8ad47478dfd574987542c33da0f80e0b9ffe6b64a61850b5a104500390ced",
+    "email": "test@example.com",
+    "created_at": "2025-10-26T16:18:11.914627",
+    "last_login": "2025-10-26T16:25:48.727972"
+  },
+  "sessionuser": {
+    "password_hash": "e493c394a28652900d73f0fc7e6713840b1af0ab1f3fd9c5878d82e5f753c6c1",
+    "email": "session@example.com",
+    "created_at": "2025-10-26T16:18:27.168958",
+    "last_login": "2025-10-26T16:25:48.742701"
+  },
+  "workflowuser": {
+    "password_hash": "3ac5df75407dc38ab1ee1c621d7555957d319777f716d4e25e0557fce559e2ef",
+    "email": "workflow@example.com",
+    "created_at": "2025-10-26T16:18:54.779280",
+    "last_login": "2025-10-26T16:18:54.780493"
+  }
+}
